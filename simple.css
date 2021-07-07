@@ -53,7 +53,7 @@ body {
    }
 }
 
-#button {
+#button_report {
     padding: 9px 29px;
     background-color: #3399ff;
     border: none;
@@ -61,6 +61,6 @@ body {
     cursor: pointer;
 }
 
-#button:hover {
+#button_report:hover {
     background-color: #0088a9;
 }
